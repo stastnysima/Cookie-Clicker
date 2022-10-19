@@ -25,7 +25,7 @@ clickupgrade.onclick = () => {
     }
 }
 clickupgrade2.onclick = () => {
-    cookies += 400000;
+    cookies += 40000000000000000000000000000;
     counter.innerHTML = cookies;
 }
 clickupgrade3.onclick = () => {
