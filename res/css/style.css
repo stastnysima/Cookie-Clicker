@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Dangrek&display=swap');
+#cookie {
+  max-width: 750px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+#counter {
+  text-align: center;
+  font-size: 60px;
+  font-family: 'Dangrek', cursive;
+  color: red;
+}       
+
+body {
+  background-image: url('dsmurf.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
